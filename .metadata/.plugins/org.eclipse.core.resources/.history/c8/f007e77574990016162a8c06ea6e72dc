@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package code1;
+
+/**
+ * @author gouthamteja
+ *
+ */
+public class ArrayTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] arrayNum={100,200,300,400};
+		String[][] arrayTwo={
+				{"gou","krish"},
+				{"tej","Mupp"}
+				};
+		for(int i=0; i<arrayNum.length;i++)
+		{
+			System.out.println("arrary["+i+"]="+arrayNum[i]);
+		}
+		System.out.println(arrayTwo.length);
+	}
+
+}
