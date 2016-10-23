@@ -1,0 +1,7 @@
+Object  --> Object is way to model real world objects state and behaviour.
+
+Class   --> Class is programatic way representation of object
+
+Inheritance --> It is a powerful and natural way of organizing structure of your software. sub class can inherit from your super class
+
+Interface --->
