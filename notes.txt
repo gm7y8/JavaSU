@@ -1,7 +1,17 @@
 Object  --> Object is way to model real world objects state and behaviour.
 
+Features of object
+1. Modularity
+2. Information hiding or encapusulation
+3. code reuse
+4. Pluggability and debugging ease.
+
 Class   --> Class is programatic way representation of object
 
 Inheritance --> It is a powerful and natural way of organizing structure of your software. sub class can inherit from your super class
 
-Interface --->
+Interface ---> Interface is contract between a class and outside world.
+
+Package ---> Package is namespace for organizing class and interfaces in logical manner.
+
+
